@@ -107,9 +107,9 @@ def regression_model_metrics(actual, predictions, name=''):
     {name} R2_score: {round(r2 * 100, 2)} %')
     
 
-def list_correlations(df, threshold=0.6, ascending=False):
+def list_correlations(df, ascending=False):
     df = df.copy(deep=True)
-    df = df.corr().abs()
-    np.fill_diagonal(df.values, np.nan)
-    values_above_threshold = df.where(df > threshold)
-    return values_above_threshold.unstack().dropna().sort_values(ascending=ascending)
+    df_corr = df.corr().abs()
+    np.fill_diagonal(df_corr.values, np.nan)
+
+    return df_corr.unstack().dropna().sort_values(ascending=ascending)
