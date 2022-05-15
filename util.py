@@ -6,18 +6,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def info(obj, search=''):
-    obj_contents = [i for i in dir(obj) if '__' not in i]
-    if obj_contents:
-        search_results = np.array([i for i in obj_contents if search.lower() in i.lower()])
-        if search_results.size <= 0:
-            print('No mathcing results')
-            return np.array([i for i in obj_contents])
-        else:
-            return search_results
-    else:
-        return help(obj)
-    
 
 def subset_data(df, *names_like):
     return df[[col for col in df if [name for name in names_like if name in col]]]
@@ -39,6 +27,7 @@ def outliers_replace(df, value):
     df = df.copy(deep=True)
     df[outliers_mask(df)] = value
     return df
+    
     
 def outliers_count(df):
     return outliers_mask(df).sum()  # True=1, False=0
