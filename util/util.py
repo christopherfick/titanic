@@ -6,10 +6,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-<<<<<<< HEAD:util/util.py
-    
-=======
->>>>>>> ecb4cd0eb7e8b929f91880d994c660b6ea84576d:util.py
 
 def subset_data(df, *names_like):
     return df[[col for col in df if [name for name in names_like if name in col]]]
