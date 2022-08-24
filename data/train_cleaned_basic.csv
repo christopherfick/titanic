@@ -1,0 +1,892 @@
+passengerid,survived,pclass,sex,age,sibsp,parch,ticket,fare,cabin,embarked,first_name,last_name,title
+1,0,3,1,22.0,1,0,A/5 21171,7.25,,S,Braund,Owen Harris,mr
+2,1,1,0,38.0,1,0,PC 17599,71.2833,C85,C,Cumings,John Bradley (Florence Briggs Thayer),mrs
+3,1,3,0,26.0,0,0,STON/O2. 3101282,7.925,,S,Heikkinen,Laina,miss
+4,1,1,0,35.0,1,0,113803,53.1,C123,S,Futrelle,Jacques Heath (Lily May Peel),mrs
+5,0,3,1,35.0,0,0,373450,8.05,,S,Allen,William Henry,mr
+6,0,3,1,,0,0,330877,8.4583,,Q,Moran,James,mr
+7,0,1,1,54.0,0,0,17463,51.8625,E46,S,McCarthy,Timothy J,mr
+8,0,3,1,2.0,3,1,349909,21.075,,S,Palsson,Gosta Leonard,master
+9,1,3,0,27.0,0,2,347742,11.1333,,S,Johnson,Oscar W (Elisabeth Vilhelmina Berg),mrs
+10,1,2,0,14.0,1,0,237736,30.0708,,C,Nasser,Nicholas (Adele Achem),mrs
+11,1,3,0,4.0,1,1,PP 9549,16.7,G6,S,Sandstrom,Marguerite Rut,miss
+12,1,1,0,58.0,0,0,113783,26.55,C103,S,Bonnell,Elizabeth,miss
+13,0,3,1,20.0,0,0,A/5. 2151,8.05,,S,Saundercock,William Henry,mr
+14,0,3,1,39.0,1,5,347082,31.275,,S,Andersson,Anders Johan,mr
+15,0,3,0,14.0,0,0,350406,7.8542,,S,Vestrom,Hulda Amanda Adolfina,miss
+16,1,2,0,55.0,0,0,248706,16.0,,S,Hewlett,(Mary D Kingcome),mrs
+17,0,3,1,2.0,4,1,382652,29.125,,Q,Rice,Eugene,master
+18,1,2,1,,0,0,244373,13.0,,S,Williams,Charles Eugene,mr
+19,0,3,0,31.0,1,0,345763,18.0,,S,Vander Planke,Julius (Emelia Maria Vandemoortele),mrs
+20,1,3,0,,0,0,2649,7.225,,C,Masselmani,Fatima,mrs
+21,0,2,1,35.0,0,0,239865,26.0,,S,Fynney,Joseph J,mr
+22,1,2,1,34.0,0,0,248698,13.0,D56,S,Beesley,Lawrence,mr
+23,1,3,0,15.0,0,0,330923,8.0292,,Q,McGowan,"Anna ""Annie""",miss
+24,1,1,1,28.0,0,0,113788,35.5,A6,S,Sloper,William Thompson,mr
+25,0,3,0,8.0,3,1,349909,21.075,,S,Palsson,Torborg Danira,miss
+26,1,3,0,38.0,1,5,347077,31.3875,,S,Asplund,Carl Oscar (Selma Augusta Emilia Johansson),mrs
+27,0,3,1,,0,0,2631,7.225,,C,Emir,Farred Chehab,mr
+28,0,1,1,19.0,3,2,19950,263.0,C23 C25 C27,S,Fortune,Charles Alexander,mr
+29,1,3,0,,0,0,330959,7.8792,,Q,O'Dwyer,"Ellen ""Nellie""",miss
+30,0,3,1,,0,0,349216,7.8958,,S,Todoroff,Lalio,mr
+31,0,1,1,40.0,0,0,PC 17601,27.7208,,C,Uruchurtu,Manuel E,uncommon
+32,1,1,0,,1,0,PC 17569,146.5208,B78,C,Spencer,William Augustus (Marie Eugenie),mrs
+33,1,3,0,,0,0,335677,7.75,,Q,Glynn,Mary Agatha,miss
+34,0,2,1,66.0,0,0,C.A. 24579,10.5,,S,Wheadon,Edward H,mr
+35,0,1,1,28.0,1,0,PC 17604,82.1708,,C,Meyer,Edgar Joseph,mr
+36,0,1,1,42.0,1,0,113789,52.0,,S,Holverson,Alexander Oskar,mr
+37,1,3,1,,0,0,2677,7.2292,,C,Mamee,Hanna,mr
+38,0,3,1,21.0,0,0,A./5. 2152,8.05,,S,Cann,Ernest Charles,mr
+39,0,3,0,18.0,2,0,345764,18.0,,S,Vander Planke,Augusta Maria,miss
+40,1,3,0,14.0,1,0,2651,11.2417,,C,Nicola-Yarred,Jamila,miss
+41,0,3,0,40.0,1,0,7546,9.475,,S,Ahlin,Johan (Johanna Persdotter Larsson),mrs
+42,0,2,0,27.0,1,0,11668,21.0,,S,Turpin,William John Robert (Dorothy Ann Wonnacott),mrs
+43,0,3,1,,0,0,349253,7.8958,,C,Kraeff,Theodor,mr
+44,1,2,0,3.0,1,2,SC/Paris 2123,41.5792,,C,Laroche,Simonne Marie Anne Andree,miss
+45,1,3,0,19.0,0,0,330958,7.8792,,Q,Devaney,Margaret Delia,miss
+46,0,3,1,,0,0,S.C./A.4. 23567,8.05,,S,Rogers,William John,mr
+47,0,3,1,,1,0,370371,15.5,,Q,Lennon,Denis,mr
+48,1,3,0,,0,0,14311,7.75,,Q,O'Driscoll,Bridget,miss
+49,0,3,1,,2,0,2662,21.6792,,C,Samaan,Youssef,mr
+50,0,3,0,18.0,1,0,349237,17.8,,S,Arnold-Franchi,Josef (Josefine Franchi),mrs
+51,0,3,1,7.0,4,1,3101295,39.6875,,S,Panula,Juha Niilo,master
+52,0,3,1,21.0,0,0,A/4. 39886,7.8,,S,Nosworthy,Richard Cater,mr
+53,1,1,0,49.0,1,0,PC 17572,76.7292,D33,C,Harper,Henry Sleeper (Myna Haxtun),mrs
+54,1,2,0,29.0,1,0,2926,26.0,,S,Faunthorpe,Lizzie (Elizabeth Anne Wilkinson),mrs
+55,0,1,1,65.0,0,1,113509,61.9792,B30,C,Ostby,Engelhart Cornelius,mr
+56,1,1,1,,0,0,19947,35.5,C52,S,Woolner,Hugh,mr
+57,1,2,0,21.0,0,0,C.A. 31026,10.5,,S,Rugg,Emily,miss
+58,0,3,1,28.5,0,0,2697,7.2292,,C,Novel,Mansouer,mr
+59,1,2,0,5.0,1,2,C.A. 34651,27.75,,S,West,Constance Mirium,miss
+60,0,3,1,11.0,5,2,CA 2144,46.9,,S,Goodwin,William Frederick,master
+61,0,3,1,22.0,0,0,2669,7.2292,,C,Sirayanian,Orsen,mr
+62,1,1,0,38.0,0,0,113572,80.0,B28,,Icard,Amelie,miss
+63,0,1,1,45.0,1,0,36973,83.475,C83,S,Harris,Henry Birkhardt,mr
+64,0,3,1,4.0,3,2,347088,27.9,,S,Skoog,Harald,master
+65,0,1,1,,0,0,PC 17605,27.7208,,C,Stewart,Albert A,mr
+66,1,3,1,,1,1,2661,15.2458,,C,Moubarek,Gerios,master
+67,1,2,0,29.0,0,0,C.A. 29395,10.5,F33,S,Nye,(Elizabeth Ramell),mrs
+68,0,3,1,19.0,0,0,S.P. 3464,8.1583,,S,Crease,Ernest James,mr
+69,1,3,0,17.0,4,2,3101281,7.925,,S,Andersson,Erna Alexandra,miss
+70,0,3,1,26.0,2,0,315151,8.6625,,S,Kink,Vincenz,mr
+71,0,2,1,32.0,0,0,C.A. 33111,10.5,,S,Jenkin,Stephen Curnow,mr
+72,0,3,0,16.0,5,2,CA 2144,46.9,,S,Goodwin,Lillian Amy,miss
+73,0,2,1,21.0,0,0,S.O.C. 14879,73.5,,S,Hood,Ambrose Jr,mr
+74,0,3,1,26.0,1,0,2680,14.4542,,C,Chronopoulos,Apostolos,mr
+75,1,3,1,32.0,0,0,1601,56.4958,,S,Bing,Lee,mr
+76,0,3,1,25.0,0,0,348123,7.65,F G73,S,Moen,Sigurd Hansen,mr
+77,0,3,1,,0,0,349208,7.8958,,S,Staneff,Ivan,mr
+78,0,3,1,,0,0,374746,8.05,,S,Moutal,Rahamin Haim,mr
+79,1,2,1,0.83,0,2,248738,29.0,,S,Caldwell,Alden Gates,master
+80,1,3,0,30.0,0,0,364516,12.475,,S,Dowdell,Elizabeth,miss
+81,0,3,1,22.0,0,0,345767,9.0,,S,Waelens,Achille,mr
+82,1,3,1,29.0,0,0,345779,9.5,,S,Sheerlinck,Jan Baptist,mr
+83,1,3,0,,0,0,330932,7.7875,,Q,McDermott,Brigdet Delia,miss
+84,0,1,1,28.0,0,0,113059,47.1,,S,Carrau,Francisco M,mr
+85,1,2,0,17.0,0,0,SO/C 14885,10.5,,S,Ilett,Bertha,miss
+86,1,3,0,33.0,3,0,3101278,15.85,,S,Backstrom,Karl Alfred (Maria Mathilda Gustafsson),mrs
+87,0,3,1,16.0,1,3,W./C. 6608,34.375,,S,Ford,William Neal,mr
+88,0,3,1,,0,0,SOTON/OQ 392086,8.05,,S,Slocovski,Selman Francis,mr
+89,1,1,0,23.0,3,2,19950,263.0,C23 C25 C27,S,Fortune,Mabel Helen,miss
+90,0,3,1,24.0,0,0,343275,8.05,,S,Celotti,Francesco,mr
+91,0,3,1,29.0,0,0,343276,8.05,,S,Christmann,Emil,mr
+92,0,3,1,20.0,0,0,347466,7.8542,,S,Andreasson,Paul Edvin,mr
+93,0,1,1,46.0,1,0,W.E.P. 5734,61.175,E31,S,Chaffee,Herbert Fuller,mr
+94,0,3,1,26.0,1,2,C.A. 2315,20.575,,S,Dean,Bertram Frank,mr
+95,0,3,1,59.0,0,0,364500,7.25,,S,Coxon,Daniel,mr
+96,0,3,1,,0,0,374910,8.05,,S,Shorney,Charles Joseph,mr
+97,0,1,1,71.0,0,0,PC 17754,34.6542,A5,C,Goldschmidt,George B,mr
+98,1,1,1,23.0,0,1,PC 17759,63.3583,D10 D12,C,Greenfield,William Bertram,mr
+99,1,2,0,34.0,0,1,231919,23.0,,S,Doling,John T (Ada Julia Bone),mrs
+100,0,2,1,34.0,1,0,244367,26.0,,S,Kantor,Sinai,mr
+101,0,3,0,28.0,0,0,349245,7.8958,,S,Petranec,Matilda,miss
+102,0,3,1,,0,0,349215,7.8958,,S,Petroff,"Pastcho (""Pentcho"")",mr
+103,0,1,1,21.0,0,1,35281,77.2875,D26,S,White,Richard Frasar,mr
+104,0,3,1,33.0,0,0,7540,8.6542,,S,Johansson,Gustaf Joel,mr
+105,0,3,1,37.0,2,0,3101276,7.925,,S,Gustafsson,Anders Vilhelm,mr
+106,0,3,1,28.0,0,0,349207,7.8958,,S,Mionoff,Stoytcho,mr
+107,1,3,0,21.0,0,0,343120,7.65,,S,Salkjelsvik,Anna Kristine,miss
+108,1,3,1,,0,0,312991,7.775,,S,Moss,Albert Johan,mr
+109,0,3,1,38.0,0,0,349249,7.8958,,S,Rekic,Tido,mr
+110,1,3,0,,1,0,371110,24.15,,Q,Moran,Bertha,miss
+111,0,1,1,47.0,0,0,110465,52.0,C110,S,Porter,Walter Chamberlain,mr
+112,0,3,0,14.5,1,0,2665,14.4542,,C,Zabour,Hileni,miss
+113,0,3,1,22.0,0,0,324669,8.05,,S,Barton,David John,mr
+114,0,3,0,20.0,1,0,4136,9.825,,S,Jussila,Katriina,miss
+115,0,3,0,17.0,0,0,2627,14.4583,,C,Attalah,Malake,miss
+116,0,3,1,21.0,0,0,STON/O 2. 3101294,7.925,,S,Pekoniemi,Edvard,mr
+117,0,3,1,70.5,0,0,370369,7.75,,Q,Connors,Patrick,mr
+118,0,2,1,29.0,1,0,11668,21.0,,S,Turpin,William John Robert,mr
+119,0,1,1,24.0,0,1,PC 17558,247.5208,B58 B60,C,Baxter,Quigg Edmond,mr
+120,0,3,0,2.0,4,2,347082,31.275,,S,Andersson,Ellis Anna Maria,miss
+121,0,2,1,21.0,2,0,S.O.C. 14879,73.5,,S,Hickman,Stanley George,mr
+122,0,3,1,,0,0,A4. 54510,8.05,,S,Moore,Leonard Charles,mr
+123,0,2,1,32.5,1,0,237736,30.0708,,C,Nasser,Nicholas,mr
+124,1,2,0,32.5,0,0,27267,13.0,E101,S,Webber,Susan,miss
+125,0,1,1,54.0,0,1,35281,77.2875,D26,S,White,Percival Wayland,mr
+126,1,3,1,12.0,1,0,2651,11.2417,,C,Nicola-Yarred,Elias,master
+127,0,3,1,,0,0,370372,7.75,,Q,McMahon,Martin,mr
+128,1,3,1,24.0,0,0,C 17369,7.1417,,S,Madsen,Fridtjof Arne,mr
+129,1,3,0,,1,1,2668,22.3583,F E69,C,Peter,Anna,miss
+130,0,3,1,45.0,0,0,347061,6.975,,S,Ekstrom,Johan,mr
+131,0,3,1,33.0,0,0,349241,7.8958,,C,Drazenoic,Jozef,mr
+132,0,3,1,20.0,0,0,SOTON/O.Q. 3101307,7.05,,S,Coelho,Domingos Fernandeo,mr
+133,0,3,0,47.0,1,0,A/5. 3337,14.5,,S,Robins,Alexander A (Grace Charity Laury),mrs
+134,1,2,0,29.0,1,0,228414,26.0,,S,Weisz,Leopold (Mathilde Francoise Pede),mrs
+135,0,2,1,25.0,0,0,C.A. 29178,13.0,,S,Sobey,Samuel James Hayden,mr
+136,0,2,1,23.0,0,0,SC/PARIS 2133,15.0458,,C,Richard,Emile,mr
+137,1,1,0,19.0,0,2,11752,26.2833,D47,S,Newsom,Helen Monypeny,miss
+138,0,1,1,37.0,1,0,113803,53.1,C123,S,Futrelle,Jacques Heath,mr
+139,0,3,1,16.0,0,0,7534,9.2167,,S,Osen,Olaf Elon,mr
+140,0,1,1,24.0,0,0,PC 17593,79.2,B86,C,Giglio,Victor,mr
+141,0,3,0,,0,2,2678,15.2458,,C,Boulos,Joseph (Sultana),mrs
+142,1,3,0,22.0,0,0,347081,7.75,,S,Nysten,Anna Sofia,miss
+143,1,3,0,24.0,1,0,STON/O2. 3101279,15.85,,S,Hakkarainen,Pekka Pietari (Elin Matilda Dolck),mrs
+144,0,3,1,19.0,0,0,365222,6.75,,Q,Burke,Jeremiah,mr
+145,0,2,1,18.0,0,0,231945,11.5,,S,Andrew,Edgardo Samuel,mr
+146,0,2,1,19.0,1,1,C.A. 33112,36.75,,S,Nicholls,Joseph Charles,mr
+147,1,3,1,27.0,0,0,350043,7.7958,,S,Andersson,"August Edvard (""Wennerstrom"")",mr
+148,0,3,0,9.0,2,2,W./C. 6608,34.375,,S,Ford,"Robina Maggie ""Ruby""",miss
+149,0,2,1,36.5,0,2,230080,26.0,F2,S,Navratil,"Michel (""Louis M Hoffman"")",mr
+150,0,2,1,42.0,0,0,244310,13.0,,S,Byles,Thomas Roussel Davids,uncommon
+151,0,2,1,51.0,0,0,S.O.P. 1166,12.525,,S,Bateman,Robert James,uncommon
+152,1,1,0,22.0,1,0,113776,66.6,C2,S,Pears,Thomas (Edith Wearne),mrs
+153,0,3,1,55.5,0,0,A.5. 11206,8.05,,S,Meo,Alfonzo,mr
+154,0,3,1,40.5,0,2,A/5. 851,14.5,,S,van Billiard,Austin Blyler,mr
+155,0,3,1,,0,0,Fa 265302,7.3125,,S,Olsen,Ole Martin,mr
+156,0,1,1,51.0,0,1,PC 17597,61.3792,,C,Williams,Charles Duane,mr
+157,1,3,0,16.0,0,0,35851,7.7333,,Q,Gilnagh,"Katherine ""Katie""",miss
+158,0,3,1,30.0,0,0,SOTON/OQ 392090,8.05,,S,Corn,Harry,mr
+159,0,3,1,,0,0,315037,8.6625,,S,Smiljanic,Mile,mr
+160,0,3,1,,8,2,CA. 2343,69.55,,S,Sage,Thomas Henry,master
+161,0,3,1,44.0,0,1,371362,16.1,,S,Cribb,John Hatfield,mr
+162,1,2,0,40.0,0,0,C.A. 33595,15.75,,S,Watt,"James (Elizabeth ""Bessie"" Inglis Milne)",mrs
+163,0,3,1,26.0,0,0,347068,7.775,,S,Bengtsson,John Viktor,mr
+164,0,3,1,17.0,0,0,315093,8.6625,,S,Calic,Jovo,mr
+165,0,3,1,1.0,4,1,3101295,39.6875,,S,Panula,Eino Viljami,master
+166,1,3,1,9.0,0,2,363291,20.525,,S,Goldsmith,"Frank John William ""Frankie""",master
+167,1,1,0,,0,1,113505,55.0,E33,S,Chibnall,(Edith Martha Bowerman),mrs
+168,0,3,0,45.0,1,4,347088,27.9,,S,Skoog,William (Anna Bernhardina Karlsson),mrs
+169,0,1,1,,0,0,PC 17318,25.925,,S,Baumann,John D,mr
+170,0,3,1,28.0,0,0,1601,56.4958,,S,Ling,Lee,mr
+171,0,1,1,61.0,0,0,111240,33.5,B19,S,Van der hoef,Wyckoff,mr
+172,0,3,1,4.0,4,1,382652,29.125,,Q,Rice,Arthur,master
+173,1,3,0,1.0,1,1,347742,11.1333,,S,Johnson,Eleanor Ileen,miss
+174,0,3,1,21.0,0,0,STON/O 2. 3101280,7.925,,S,Sivola,Antti Wilhelm,mr
+175,0,1,1,56.0,0,0,17764,30.6958,A7,C,Smith,James Clinch,mr
+176,0,3,1,18.0,1,1,350404,7.8542,,S,Klasen,Klas Albin,mr
+177,0,3,1,,3,1,4133,25.4667,,S,Lefebre,Henry Forbes,master
+178,0,1,0,50.0,0,0,PC 17595,28.7125,C49,C,Isham,Ann Elizabeth,miss
+179,0,2,1,30.0,0,0,250653,13.0,,S,Hale,Reginald,mr
+180,0,3,1,36.0,0,0,LINE,0.0,,S,Leonard,Lionel,mr
+181,0,3,0,,8,2,CA. 2343,69.55,,S,Sage,Constance Gladys,miss
+182,0,2,1,,0,0,SC/PARIS 2131,15.05,,C,Pernot,Rene,mr
+183,0,3,1,9.0,4,2,347077,31.3875,,S,Asplund,Clarence Gustaf Hugo,master
+184,1,2,1,1.0,2,1,230136,39.0,F4,S,Becker,Richard F,master
+185,1,3,0,4.0,0,2,315153,22.025,,S,Kink-Heilmann,Luise Gretchen,miss
+186,0,1,1,,0,0,113767,50.0,A32,S,Rood,Hugh Roscoe,mr
+187,1,3,0,,1,0,370365,15.5,,Q,O'Brien,"Thomas (Johanna ""Hannah"" Godfrey)",mrs
+188,1,1,1,45.0,0,0,111428,26.55,,S,Romaine,"Charles Hallace (""Mr C Rolmane"")",mr
+189,0,3,1,40.0,1,1,364849,15.5,,Q,Bourke,John,mr
+190,0,3,1,36.0,0,0,349247,7.8958,,S,Turcin,Stjepan,mr
+191,1,2,0,32.0,0,0,234604,13.0,,S,Pinsky,(Rosa),mrs
+192,0,2,1,19.0,0,0,28424,13.0,,S,Carbines,William,mr
+193,1,3,0,19.0,1,0,350046,7.8542,,S,Andersen-Jensen,Carla Christine Nielsine,miss
+194,1,2,1,3.0,1,1,230080,26.0,F2,S,Navratil,Michel M,master
+195,1,1,0,44.0,0,0,PC 17610,27.7208,B4,C,Brown,James Joseph (Margaret Tobin),mrs
+196,1,1,0,58.0,0,0,PC 17569,146.5208,B80,C,Lurette,Elise,miss
+197,0,3,1,,0,0,368703,7.75,,Q,Mernagh,Robert,mr
+198,0,3,1,42.0,0,1,4579,8.4042,,S,Olsen,Karl Siegwart Andreas,mr
+199,1,3,0,,0,0,370370,7.75,,Q,Madigan,"Margaret ""Maggie""",miss
+200,0,2,0,24.0,0,0,248747,13.0,,S,Yrois,"Henriette (""Mrs Harbeck"")",miss
+201,0,3,1,28.0,0,0,345770,9.5,,S,Vande Walle,Nestor Cyriel,mr
+202,0,3,1,,8,2,CA. 2343,69.55,,S,Sage,Frederick,mr
+203,0,3,1,34.0,0,0,3101264,6.4958,,S,Johanson,Jakob Alfred,mr
+204,0,3,1,45.5,0,0,2628,7.225,,C,Youseff,Gerious,mr
+205,1,3,1,18.0,0,0,A/5 3540,8.05,,S,Cohen,"Gurshon ""Gus""",mr
+206,0,3,0,2.0,0,1,347054,10.4625,G6,S,Strom,Telma Matilda,miss
+207,0,3,1,32.0,1,0,3101278,15.85,,S,Backstrom,Karl Alfred,mr
+208,1,3,1,26.0,0,0,2699,18.7875,,C,Albimona,Nassef Cassem,mr
+209,1,3,0,16.0,0,0,367231,7.75,,Q,Carr,"Helen ""Ellen""",miss
+210,1,1,1,40.0,0,0,112277,31.0,A31,C,Blank,Henry,mr
+211,0,3,1,24.0,0,0,SOTON/O.Q. 3101311,7.05,,S,Ali,Ahmed,mr
+212,1,2,0,35.0,0,0,F.C.C. 13528,21.0,,S,Cameron,Clear Annie,miss
+213,0,3,1,22.0,0,0,A/5 21174,7.25,,S,Perkin,John Henry,mr
+214,0,2,1,30.0,0,0,250646,13.0,,S,Givard,Hans Kristensen,mr
+215,0,3,1,,1,0,367229,7.75,,Q,Kiernan,Philip,mr
+216,1,1,0,31.0,1,0,35273,113.275,D36,C,Newell,Madeleine,miss
+217,1,3,0,27.0,0,0,STON/O2. 3101283,7.925,,S,Honkanen,Eliina,miss
+218,0,2,1,42.0,1,0,243847,27.0,,S,Jacobsohn,Sidney Samuel,mr
+219,1,1,0,32.0,0,0,11813,76.2917,D15,C,Bazzani,Albina,miss
+220,0,2,1,30.0,0,0,W/C 14208,10.5,,S,Harris,Walter,mr
+221,1,3,1,16.0,0,0,SOTON/OQ 392089,8.05,,S,Sunderland,Victor Francis,mr
+222,0,2,1,27.0,0,0,220367,13.0,,S,Bracken,James H,mr
+223,0,3,1,51.0,0,0,21440,8.05,,S,Green,George Henry,mr
+224,0,3,1,,0,0,349234,7.8958,,S,Nenkoff,Christo,mr
+225,1,1,1,38.0,1,0,19943,90.0,C93,S,Hoyt,Frederick Maxfield,mr
+226,0,3,1,22.0,0,0,PP 4348,9.35,,S,Berglund,Karl Ivar Sven,mr
+227,1,2,1,19.0,0,0,SW/PP 751,10.5,,S,Mellors,William John,mr
+228,0,3,1,20.5,0,0,A/5 21173,7.25,,S,Lovell,"John Hall (""Henry"")",mr
+229,0,2,1,18.0,0,0,236171,13.0,,S,Fahlstrom,Arne Jonas,mr
+230,0,3,0,,3,1,4133,25.4667,,S,Lefebre,Mathilde,miss
+231,1,1,0,35.0,1,0,36973,83.475,C83,S,Harris,Henry Birkhardt (Irene Wallach),mrs
+232,0,3,1,29.0,0,0,347067,7.775,,S,Larsson,Bengt Edvin,mr
+233,0,2,1,59.0,0,0,237442,13.5,,S,Sjostedt,Ernst Adolf,mr
+234,1,3,0,5.0,4,2,347077,31.3875,,S,Asplund,Lillian Gertrud,miss
+235,0,2,1,24.0,0,0,C.A. 29566,10.5,,S,Leyson,Robert William Norman,mr
+236,0,3,0,,0,0,W./C. 6609,7.55,,S,Harknett,Alice Phoebe,miss
+237,0,2,1,44.0,1,0,26707,26.0,,S,Hold,Stephen,mr
+238,1,2,0,8.0,0,2,C.A. 31921,26.25,,S,Collyer,"Marjorie ""Lottie""",miss
+239,0,2,1,19.0,0,0,28665,10.5,,S,Pengelly,Frederick William,mr
+240,0,2,1,33.0,0,0,SCO/W 1585,12.275,,S,Hunt,George Henry,mr
+241,0,3,0,,1,0,2665,14.4542,,C,Zabour,Thamine,miss
+242,1,3,0,,1,0,367230,15.5,,Q,Murphy,"Katherine ""Kate""",miss
+243,0,2,1,29.0,0,0,W./C. 14263,10.5,,S,Coleridge,Reginald Charles,mr
+244,0,3,1,22.0,0,0,STON/O 2. 3101275,7.125,,S,Maenpaa,Matti Alexanteri,mr
+245,0,3,1,30.0,0,0,2694,7.225,,C,Attalah,Sleiman,mr
+246,0,1,1,44.0,2,0,19928,90.0,C78,Q,Minahan,William Edward,uncommon
+247,0,3,0,25.0,0,0,347071,7.775,,S,Lindahl,Agda Thorilda Viktoria,miss
+248,1,2,0,24.0,0,2,250649,14.5,,S,Hamalainen,William (Anna),mrs
+249,1,1,1,37.0,1,1,11751,52.5542,D35,S,Beckwith,Richard Leonard,mr
+250,0,2,1,54.0,1,0,244252,26.0,,S,Carter,Ernest Courtenay,uncommon
+251,0,3,1,,0,0,362316,7.25,,S,Reed,James George,mr
+252,0,3,0,29.0,1,1,347054,10.4625,G6,S,Strom,Wilhelm (Elna Matilda Persson),mrs
+253,0,1,1,62.0,0,0,113514,26.55,C87,S,Stead,William Thomas,mr
+254,0,3,1,30.0,1,0,A/5. 3336,16.1,,S,Lobb,William Arthur,mr
+255,0,3,0,41.0,0,2,370129,20.2125,,S,Rosblom,Viktor (Helena Wilhelmina),mrs
+256,1,3,0,29.0,0,2,2650,15.2458,,C,Touma,Darwis (Hanne Youssef Razi),mrs
+257,1,1,0,,0,0,PC 17585,79.2,,C,Thorne,Gertrude Maybelle,mrs
+258,1,1,0,30.0,0,0,110152,86.5,B77,S,Cherry,Gladys,miss
+259,1,1,0,35.0,0,0,PC 17755,512.3292,,C,Ward,Anna,miss
+260,1,2,0,50.0,0,1,230433,26.0,,S,Parrish,(Lutie Davis),mrs
+261,0,3,1,,0,0,384461,7.75,,Q,Smith,Thomas,mr
+262,1,3,1,3.0,4,2,347077,31.3875,,S,Asplund,Edvin Rojj Felix,master
+263,0,1,1,52.0,1,1,110413,79.65,E67,S,Taussig,Emil,mr
+264,0,1,1,40.0,0,0,112059,0.0,B94,S,Harrison,William,mr
+265,0,3,0,,0,0,382649,7.75,,Q,Henry,Delia,miss
+266,0,2,1,36.0,0,0,C.A. 17248,10.5,,S,Reeves,David,mr
+267,0,3,1,16.0,4,1,3101295,39.6875,,S,Panula,Ernesti Arvid,mr
+268,1,3,1,25.0,1,0,347083,7.775,,S,Persson,Ernst Ulrik,mr
+269,1,1,0,58.0,0,1,PC 17582,153.4625,C125,S,Graham,William Thompson (Edith Junkins),mrs
+270,1,1,0,35.0,0,0,PC 17760,135.6333,C99,S,Bissette,Amelia,miss
+271,0,1,1,,0,0,113798,31.0,,S,Cairns,Alexander,mr
+272,1,3,1,25.0,0,0,LINE,0.0,,S,Tornquist,William Henry,mr
+273,1,2,0,41.0,0,1,250644,19.5,,S,Mellinger,(Elizabeth Anne Maidment),mrs
+274,0,1,1,37.0,0,1,PC 17596,29.7,C118,C,Natsch,Charles H,mr
+275,1,3,0,,0,0,370375,7.75,,Q,Healy,"Hanora ""Nora""",miss
+276,1,1,0,63.0,1,0,13502,77.9583,D7,S,Andrews,Kornelia Theodosia,miss
+277,0,3,0,45.0,0,0,347073,7.75,,S,Lindblom,Augusta Charlotta,miss
+278,0,2,1,,0,0,239853,0.0,,S,Parkes,"Francis ""Frank""",mr
+279,0,3,1,7.0,4,1,382652,29.125,,Q,Rice,Eric,master
+280,1,3,0,35.0,1,1,C.A. 2673,20.25,,S,Abbott,Stanton (Rosa Hunt),mrs
+281,0,3,1,65.0,0,0,336439,7.75,,Q,Duane,Frank,mr
+282,0,3,1,28.0,0,0,347464,7.8542,,S,Olsson,Nils Johan Goransson,mr
+283,0,3,1,16.0,0,0,345778,9.5,,S,de Pelsmaeker,Alfons,mr
+284,1,3,1,19.0,0,0,A/5. 10482,8.05,,S,Dorking,Edward Arthur,mr
+285,0,1,1,,0,0,113056,26.0,A19,S,Smith,Richard William,mr
+286,0,3,1,33.0,0,0,349239,8.6625,,C,Stankovic,Ivan,mr
+287,1,3,1,30.0,0,0,345774,9.5,,S,de Mulder,Theodore,mr
+288,0,3,1,22.0,0,0,349206,7.8958,,S,Naidenoff,Penko,mr
+289,1,2,1,42.0,0,0,237798,13.0,,S,Hosono,Masabumi,mr
+290,1,3,0,22.0,0,0,370373,7.75,,Q,Connolly,Kate,miss
+291,1,1,0,26.0,0,0,19877,78.85,,S,Barber,"Ellen ""Nellie""",miss
+292,1,1,0,19.0,1,0,11967,91.0792,B49,C,Bishop,Dickinson H (Helen Walton),mrs
+293,0,2,1,36.0,0,0,SC/Paris 2163,12.875,D,C,Levy,Rene Jacques,mr
+294,0,3,0,24.0,0,0,349236,8.85,,S,Haas,Aloisia,miss
+295,0,3,1,24.0,0,0,349233,7.8958,,S,Mineff,Ivan,mr
+296,0,1,1,,0,0,PC 17612,27.7208,,C,Lewy,Ervin G,mr
+297,0,3,1,23.5,0,0,2693,7.2292,,C,Hanna,Mansour,mr
+298,0,1,0,2.0,1,2,113781,151.55,C22 C26,S,Allison,Helen Loraine,miss
+299,1,1,1,,0,0,19988,30.5,C106,S,Saalfeld,Adolphe,mr
+300,1,1,0,50.0,0,1,PC 17558,247.5208,B58 B60,C,Baxter,James (Helene DeLaudeniere Chaput),mrs
+301,1,3,0,,0,0,9234,7.75,,Q,Kelly,"Anna Katherine ""Annie Kate""",miss
+302,1,3,1,,2,0,367226,23.25,,Q,McCoy,Bernard,mr
+303,0,3,1,19.0,0,0,LINE,0.0,,S,Johnson,William Cahoone Jr,mr
+304,1,2,0,,0,0,226593,12.35,E101,Q,Keane,Nora A,miss
+305,0,3,1,,0,0,A/5 2466,8.05,,S,Williams,"Howard Hugh ""Harry""",mr
+306,1,1,1,0.92,1,2,113781,151.55,C22 C26,S,Allison,Hudson Trevor,master
+307,1,1,0,,0,0,17421,110.8833,,C,Fleming,Margaret,miss
+308,1,1,0,17.0,1,0,PC 17758,108.9,C65,C,Penasco y Castellana,Victor de Satode (Maria Josefa Perez de Soto y Vallejo),mrs
+309,0,2,1,30.0,1,0,P/PP 3381,24.0,,C,Abelson,Samuel,mr
+310,1,1,0,30.0,0,0,PC 17485,56.9292,E36,C,Francatelli,Laura Mabel,miss
+311,1,1,0,24.0,0,0,11767,83.1583,C54,C,Hays,Margaret Bechstein,miss
+312,1,1,0,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,Ryerson,Emily Borie,miss
+313,0,2,0,26.0,1,1,250651,26.0,,S,Lahtinen,William (Anna Sylfven),mrs
+314,0,3,1,28.0,0,0,349243,7.8958,,S,Hendekovic,Ignjac,mr
+315,0,2,1,43.0,1,1,F.C.C. 13529,26.25,,S,Hart,Benjamin,mr
+316,1,3,0,26.0,0,0,347470,7.8542,,S,Nilsson,Helmina Josefina,miss
+317,1,2,0,24.0,1,0,244367,26.0,,S,Kantor,Sinai (Miriam Sternin),mrs
+318,0,2,1,54.0,0,0,29011,14.0,,S,Moraweck,Ernest,uncommon
+319,1,1,0,31.0,0,2,36928,164.8667,C7,S,Wick,Mary Natalie,miss
+320,1,1,0,40.0,1,1,16966,134.5,E34,C,Spedden,Frederic Oakley (Margaretta Corning Stone),mrs
+321,0,3,1,22.0,0,0,A/5 21172,7.25,,S,Dennis,Samuel,mr
+322,0,3,1,27.0,0,0,349219,7.8958,,S,Danoff,Yoto,mr
+323,1,2,0,30.0,0,0,234818,12.35,,Q,Slayter,Hilda Mary,miss
+324,1,2,0,22.0,1,1,248738,29.0,,S,Caldwell,Albert Francis (Sylvia Mae Harbaugh),mrs
+325,0,3,1,,8,2,CA. 2343,69.55,,S,Sage,George John Jr,mr
+326,1,1,0,36.0,0,0,PC 17760,135.6333,C32,C,Young,Marie Grice,miss
+327,0,3,1,61.0,0,0,345364,6.2375,,S,Nysveen,Johan Hansen,mr
+328,1,2,0,36.0,0,0,28551,13.0,D,S,Ball,(Ada E Hall),mrs
+329,1,3,0,31.0,1,1,363291,20.525,,S,Goldsmith,Frank John (Emily Alice Brown),mrs
+330,1,1,0,16.0,0,1,111361,57.9792,B18,C,Hippach,Jean Gertrude,miss
+331,1,3,0,,2,0,367226,23.25,,Q,McCoy,Agnes,miss
+332,0,1,1,45.5,0,0,113043,28.5,C124,S,Partner,Austen,mr
+333,0,1,1,38.0,0,1,PC 17582,153.4625,C91,S,Graham,George Edward,mr
+334,0,3,1,16.0,2,0,345764,18.0,,S,Vander Planke,Leo Edmondus,mr
+335,1,1,0,,1,0,PC 17611,133.65,,S,Frauenthal,Henry William (Clara Heinsheimer),mrs
+336,0,3,1,,0,0,349225,7.8958,,S,Denkoff,Mitto,mr
+337,0,1,1,29.0,1,0,113776,66.6,C2,S,Pears,Thomas Clinton,mr
+338,1,1,0,41.0,0,0,16966,134.5,E40,C,Burns,Elizabeth Margaret,miss
+339,1,3,1,45.0,0,0,7598,8.05,,S,Dahl,Karl Edwart,mr
+340,0,1,1,45.0,0,0,113784,35.5,T,S,Blackwell,Stephen Weart,mr
+341,1,2,1,2.0,1,1,230080,26.0,F2,S,Navratil,Edmond Roger,master
+342,1,1,0,24.0,3,2,19950,263.0,C23 C25 C27,S,Fortune,Alice Elizabeth,miss
+343,0,2,1,28.0,0,0,248740,13.0,,S,Collander,Erik Gustaf,mr
+344,0,2,1,25.0,0,0,244361,13.0,,S,Sedgwick,Charles Frederick Waddington,mr
+345,0,2,1,36.0,0,0,229236,13.0,,S,Fox,Stanley Hubert,mr
+346,1,2,0,24.0,0,0,248733,13.0,F33,S,Brown,"Amelia ""Mildred""",miss
+347,1,2,0,40.0,0,0,31418,13.0,,S,Smith,Marion Elsie,miss
+348,1,3,0,,1,0,386525,16.1,,S,Davison,Thomas Henry (Mary E Finck),mrs
+349,1,3,1,3.0,1,1,C.A. 37671,15.9,,S,Coutts,"William Loch ""William""",master
+350,0,3,1,42.0,0,0,315088,8.6625,,S,Dimic,Jovan,mr
+351,0,3,1,23.0,0,0,7267,9.225,,S,Odahl,Nils Martin,mr
+352,0,1,1,,0,0,113510,35.0,C128,S,Williams-Lambert,Fletcher Fellows,mr
+353,0,3,1,15.0,1,1,2695,7.2292,,C,Elias,Tannous,mr
+354,0,3,1,25.0,1,0,349237,17.8,,S,Arnold-Franchi,Josef,mr
+355,0,3,1,,0,0,2647,7.225,,C,Yousif,Wazli,mr
+356,0,3,1,28.0,0,0,345783,9.5,,S,Vanden Steen,Leo Peter,mr
+357,1,1,0,22.0,0,1,113505,55.0,E33,S,Bowerman,Elsie Edith,miss
+358,0,2,0,38.0,0,0,237671,13.0,,S,Funk,Annie Clemmer,miss
+359,1,3,0,,0,0,330931,7.8792,,Q,McGovern,Mary,miss
+360,1,3,0,,0,0,330980,7.8792,,Q,Mockler,"Helen Mary ""Ellie""",miss
+361,0,3,1,40.0,1,4,347088,27.9,,S,Skoog,Wilhelm,mr
+362,0,2,1,29.0,1,0,SC/PARIS 2167,27.7208,,C,del Carlo,Sebastiano,mr
+363,0,3,0,45.0,0,1,2691,14.4542,,C,Barbara,(Catherine David),mrs
+364,0,3,1,35.0,0,0,SOTON/O.Q. 3101310,7.05,,S,Asim,Adola,mr
+365,0,3,1,,1,0,370365,15.5,,Q,O'Brien,Thomas,mr
+366,0,3,1,30.0,0,0,C 7076,7.25,,S,Adahl,Mauritz Nils Martin,mr
+367,1,1,0,60.0,1,0,110813,75.25,D37,C,Warren,Frank Manley (Anna Sophia Atkinson),mrs
+368,1,3,0,,0,0,2626,7.2292,,C,Moussa,(Mantoura Boulos),mrs
+369,1,3,0,,0,0,14313,7.75,,Q,Jermyn,Annie,miss
+370,1,1,0,24.0,0,0,PC 17477,69.3,B35,C,Aubart,Leontine Pauline,uncommon
+371,1,1,1,25.0,1,0,11765,55.4417,E50,C,Harder,George Achilles,mr
+372,0,3,1,18.0,1,0,3101267,6.4958,,S,Wiklund,Jakob Alfred,mr
+373,0,3,1,19.0,0,0,323951,8.05,,S,Beavan,William Thomas,mr
+374,0,1,1,22.0,0,0,PC 17760,135.6333,,C,Ringhini,Sante,mr
+375,0,3,0,3.0,3,1,349909,21.075,,S,Palsson,Stina Viola,miss
+376,1,1,0,,1,0,PC 17604,82.1708,,C,Meyer,Edgar Joseph (Leila Saks),mrs
+377,1,3,0,22.0,0,0,C 7077,7.25,,S,Landergren,Aurora Adelia,miss
+378,0,1,1,27.0,0,2,113503,211.5,C82,C,Widener,Harry Elkins,mr
+379,0,3,1,20.0,0,0,2648,4.0125,,C,Betros,Tannous,mr
+380,0,3,1,19.0,0,0,347069,7.775,,S,Gustafsson,Karl Gideon,mr
+381,1,1,0,42.0,0,0,PC 17757,227.525,,C,Bidois,Rosalie,miss
+382,1,3,0,1.0,0,2,2653,15.7417,,C,Nakid,"Maria (""Mary"")",miss
+383,0,3,1,32.0,0,0,STON/O 2. 3101293,7.925,,S,Tikkanen,Juho,mr
+384,1,1,0,35.0,1,0,113789,52.0,,S,Holverson,Alexander Oskar (Mary Aline Towner),mrs
+385,0,3,1,,0,0,349227,7.8958,,S,Plotcharsky,Vasil,mr
+386,0,2,1,18.0,0,0,S.O.C. 14879,73.5,,S,Davies,Charles Henry,mr
+387,0,3,1,1.0,5,2,CA 2144,46.9,,S,Goodwin,Sidney Leonard,master
+388,1,2,0,36.0,0,0,27849,13.0,,S,Buss,Kate,miss
+389,0,3,1,,0,0,367655,7.7292,,Q,Sadlier,Matthew,mr
+390,1,2,0,17.0,0,0,SC 1748,12.0,,C,Lehmann,Bertha,miss
+391,1,1,1,36.0,1,2,113760,120.0,B96 B98,S,Carter,William Ernest,mr
+392,1,3,1,21.0,0,0,350034,7.7958,,S,Jansson,Carl Olof,mr
+393,0,3,1,28.0,2,0,3101277,7.925,,S,Gustafsson,Johan Birger,mr
+394,1,1,0,23.0,1,0,35273,113.275,D36,C,Newell,Marjorie,miss
+395,1,3,0,24.0,0,2,PP 9549,16.7,G6,S,Sandstrom,Hjalmar (Agnes Charlotta Bengtsson),mrs
+396,0,3,1,22.0,0,0,350052,7.7958,,S,Johansson,Erik,mr
+397,0,3,0,31.0,0,0,350407,7.8542,,S,Olsson,Elina,miss
+398,0,2,1,46.0,0,0,28403,26.0,,S,McKane,Peter David,mr
+399,0,2,1,23.0,0,0,244278,10.5,,S,Pain,Alfred,uncommon
+400,1,2,0,28.0,0,0,240929,12.65,,S,Trout,William H (Jessie L),mrs
+401,1,3,1,39.0,0,0,STON/O 2. 3101289,7.925,,S,Niskanen,Juha,mr
+402,0,3,1,26.0,0,0,341826,8.05,,S,Adams,John,mr
+403,0,3,0,21.0,1,0,4137,9.825,,S,Jussila,Mari Aina,miss
+404,0,3,1,28.0,1,0,STON/O2. 3101279,15.85,,S,Hakkarainen,Pekka Pietari,mr
+405,0,3,0,20.0,0,0,315096,8.6625,,S,Oreskovic,Marija,miss
+406,0,2,1,34.0,1,0,28664,21.0,,S,Gale,Shadrach,mr
+407,0,3,1,51.0,0,0,347064,7.75,,S,Widegren,Carl/Charles Peter,mr
+408,1,2,1,3.0,1,1,29106,18.75,,S,Richards,William Rowe,master
+409,0,3,1,21.0,0,0,312992,7.775,,S,Birkeland,Hans Martin Monsen,mr
+410,0,3,0,,3,1,4133,25.4667,,S,Lefebre,Ida,miss
+411,0,3,1,,0,0,349222,7.8958,,S,Sdycoff,Todor,mr
+412,0,3,1,,0,0,394140,6.8583,,Q,Hart,Henry,mr
+413,1,1,0,33.0,1,0,19928,90.0,C78,Q,Minahan,Daisy E,miss
+414,0,2,1,,0,0,239853,0.0,,S,Cunningham,Alfred Fleming,mr
+415,1,3,1,44.0,0,0,STON/O 2. 3101269,7.925,,S,Sundman,Johan Julian,mr
+416,0,3,0,,0,0,343095,8.05,,S,Meek,Thomas (Annie Louise Rowley),mrs
+417,1,2,0,34.0,1,1,28220,32.5,,S,Drew,James Vivian (Lulu Thorne Christian),mrs
+418,1,2,0,18.0,0,2,250652,13.0,,S,Silven,Lyyli Karoliina,miss
+419,0,2,1,30.0,0,0,28228,13.0,,S,Matthews,William John,mr
+420,0,3,0,10.0,0,2,345773,24.15,,S,Van Impe,Catharina,miss
+421,0,3,1,,0,0,349254,7.8958,,C,Gheorgheff,Stanio,mr
+422,0,3,1,21.0,0,0,A/5. 13032,7.7333,,Q,Charters,David,mr
+423,0,3,1,29.0,0,0,315082,7.875,,S,Zimmerman,Leo,mr
+424,0,3,0,28.0,1,1,347080,14.4,,S,Danbom,Ernst Gilbert (Anna Sigrid Maria Brogren),mrs
+425,0,3,1,18.0,1,1,370129,20.2125,,S,Rosblom,Viktor Richard,mr
+426,0,3,1,,0,0,A/4. 34244,7.25,,S,Wiseman,Phillippe,mr
+427,1,2,0,28.0,1,0,2003,26.0,,S,Clarke,Charles V (Ada Maria Winfield),mrs
+428,1,2,0,19.0,0,0,250655,26.0,,S,Phillips,"Kate Florence (""Mrs Kate Louise Phillips Marshall"")",miss
+429,0,3,1,,0,0,364851,7.75,,Q,Flynn,James,mr
+430,1,3,1,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,S,Pickard,Berk (Berk Trembisky),mr
+431,1,1,1,28.0,0,0,110564,26.55,C52,S,Bjornstrom-Steffansson,Mauritz Hakan,mr
+432,1,3,0,,1,0,376564,16.1,,S,Thorneycroft,Percival (Florence Kate White),mrs
+433,1,2,0,42.0,1,0,SC/AH 3085,26.0,,S,Louch,Charles Alexander (Alice Adelaide Slow),mrs
+434,0,3,1,17.0,0,0,STON/O 2. 3101274,7.125,,S,Kallio,Nikolai Erland,mr
+435,0,1,1,50.0,1,0,13507,55.9,E44,S,Silvey,William Baird,mr
+436,1,1,0,14.0,1,2,113760,120.0,B96 B98,S,Carter,Lucile Polk,miss
+437,0,3,0,21.0,2,2,W./C. 6608,34.375,,S,Ford,"Doolina Margaret ""Daisy""",miss
+438,1,2,0,24.0,2,3,29106,18.75,,S,Richards,Sidney (Emily Hocking),mrs
+439,0,1,1,64.0,1,4,19950,263.0,C23 C25 C27,S,Fortune,Mark,mr
+440,0,2,1,31.0,0,0,C.A. 18723,10.5,,S,Kvillner,Johan Henrik Johannesson,mr
+441,1,2,0,45.0,1,1,F.C.C. 13529,26.25,,S,Hart,Benjamin (Esther Ada Bloomfield),mrs
+442,0,3,1,20.0,0,0,345769,9.5,,S,Hampe,Leon,mr
+443,0,3,1,25.0,1,0,347076,7.775,,S,Petterson,Johan Emil,mr
+444,1,2,0,28.0,0,0,230434,13.0,,S,Reynaldo,Encarnacion,uncommon
+445,1,3,1,,0,0,65306,8.1125,,S,Johannesen-Bratthammer,Bernt,mr
+446,1,1,1,4.0,0,2,33638,81.8583,A34,S,Dodge,Washington,master
+447,1,2,0,13.0,0,1,250644,19.5,,S,Mellinger,Madeleine Violet,miss
+448,1,1,1,34.0,0,0,113794,26.55,,S,Seward,Frederic Kimber,mr
+449,1,3,0,5.0,2,1,2666,19.2583,,C,Baclini,Marie Catherine,miss
+450,1,1,1,52.0,0,0,113786,30.5,C104,S,Peuchen,Arthur Godfrey,uncommon
+451,0,2,1,36.0,1,2,C.A. 34651,27.75,,S,West,Edwy Arthur,mr
+452,0,3,1,,1,0,65303,19.9667,,S,Hagland,Ingvald Olai Olsen,mr
+453,0,1,1,30.0,0,0,113051,27.75,C111,C,Foreman,Benjamin Laventall,mr
+454,1,1,1,49.0,1,0,17453,89.1042,C92,C,Goldenberg,Samuel L,mr
+455,0,3,1,,0,0,A/5 2817,8.05,,S,Peduzzi,Joseph,mr
+456,1,3,1,29.0,0,0,349240,7.8958,,C,Jalsevac,Ivan,mr
+457,0,1,1,65.0,0,0,13509,26.55,E38,S,Millet,Francis Davis,mr
+458,1,1,0,,1,0,17464,51.8625,D21,S,Kenyon,Frederick R (Marion),mrs
+459,1,2,0,50.0,0,0,F.C.C. 13531,10.5,,S,Toomey,Ellen,miss
+460,0,3,1,,0,0,371060,7.75,,Q,O'Connor,Maurice,mr
+461,1,1,1,48.0,0,0,19952,26.55,E12,S,Anderson,Harry,mr
+462,0,3,1,34.0,0,0,364506,8.05,,S,Morley,William,mr
+463,0,1,1,47.0,0,0,111320,38.5,E63,S,Gee,Arthur H,mr
+464,0,2,1,48.0,0,0,234360,13.0,,S,Milling,Jacob Christian,mr
+465,0,3,1,,0,0,A/S 2816,8.05,,S,Maisner,Simon,mr
+466,0,3,1,38.0,0,0,SOTON/O.Q. 3101306,7.05,,S,Goncalves,Manuel Estanslas,mr
+467,0,2,1,,0,0,239853,0.0,,S,Campbell,William,mr
+468,0,1,1,56.0,0,0,113792,26.55,,S,Smart,John Montgomery,mr
+469,0,3,1,,0,0,36209,7.725,,Q,Scanlan,James,mr
+470,1,3,0,0.75,2,1,2666,19.2583,,C,Baclini,Helene Barbara,miss
+471,0,3,1,,0,0,323592,7.25,,S,Keefe,Arthur,mr
+472,0,3,1,38.0,0,0,315089,8.6625,,S,Cacic,Luka,mr
+473,1,2,0,33.0,1,2,C.A. 34651,27.75,,S,West,Edwy Arthur (Ada Mary Worth),mrs
+474,1,2,0,23.0,0,0,SC/AH Basle 541,13.7917,D,C,Jerwan,Amin S (Marie Marthe Thuillard),mrs
+475,0,3,0,22.0,0,0,7553,9.8375,,S,Strandberg,Ida Sofia,miss
+476,0,1,1,,0,0,110465,52.0,A14,S,Clifford,George Quincy,mr
+477,0,2,1,34.0,1,0,31027,21.0,,S,Renouf,Peter Henry,mr
+478,0,3,1,29.0,1,0,3460,7.0458,,S,Braund,Lewis Richard,mr
+479,0,3,1,22.0,0,0,350060,7.5208,,S,Karlsson,Nils August,mr
+480,1,3,0,2.0,0,1,3101298,12.2875,,S,Hirvonen,Hildur E,miss
+481,0,3,1,9.0,5,2,CA 2144,46.9,,S,Goodwin,Harold Victor,master
+482,0,2,1,,0,0,239854,0.0,,S,Frost,"Anthony Wood ""Archie""",mr
+483,0,3,1,50.0,0,0,A/5 3594,8.05,,S,Rouse,Richard Henry,mr
+484,1,3,0,63.0,0,0,4134,9.5875,,S,Turkula,(Hedwig),mrs
+485,1,1,1,25.0,1,0,11967,91.0792,B49,C,Bishop,Dickinson H,mr
+486,0,3,0,,3,1,4133,25.4667,,S,Lefebre,Jeannie,miss
+487,1,1,0,35.0,1,0,19943,90.0,C93,S,Hoyt,Frederick Maxfield (Jane Anne Forby),mrs
+488,0,1,1,58.0,0,0,11771,29.7,B37,C,Kent,Edward Austin,mr
+489,0,3,1,30.0,0,0,A.5. 18509,8.05,,S,Somerton,Francis William,mr
+490,1,3,1,9.0,1,1,C.A. 37671,15.9,,S,Coutts,"Eden Leslie ""Neville""",master
+491,0,3,1,,1,0,65304,19.9667,,S,Hagland,Konrad Mathias Reiersen,mr
+492,0,3,1,21.0,0,0,SOTON/OQ 3101317,7.25,,S,Windelov,Einar,mr
+493,0,1,1,55.0,0,0,113787,30.5,C30,S,Molson,Harry Markland,mr
+494,0,1,1,71.0,0,0,PC 17609,49.5042,,C,Artagaveytia,Ramon,mr
+495,0,3,1,21.0,0,0,A/4 45380,8.05,,S,Stanley,Edward Roland,mr
+496,0,3,1,,0,0,2627,14.4583,,C,Yousseff,Gerious,mr
+497,1,1,0,54.0,1,0,36947,78.2667,D20,C,Eustis,Elizabeth Mussey,miss
+498,0,3,1,,0,0,C.A. 6212,15.1,,S,Shellard,Frederick William,mr
+499,0,1,0,25.0,1,2,113781,151.55,C22 C26,S,Allison,Hudson J C (Bessie Waldo Daniels),mrs
+500,0,3,1,24.0,0,0,350035,7.7958,,S,Svensson,Olof,mr
+501,0,3,1,17.0,0,0,315086,8.6625,,S,Calic,Petar,mr
+502,0,3,0,21.0,0,0,364846,7.75,,Q,Canavan,Mary,miss
+503,0,3,0,,0,0,330909,7.6292,,Q,O'Sullivan,Bridget Mary,miss
+504,0,3,0,37.0,0,0,4135,9.5875,,S,Laitinen,Kristina Sofia,miss
+505,1,1,0,16.0,0,0,110152,86.5,B79,S,Maioni,Roberta,miss
+506,0,1,1,18.0,1,0,PC 17758,108.9,C65,C,Penasco y Castellana,Victor de Satode,mr
+507,1,2,0,33.0,0,2,26360,26.0,,S,Quick,Frederick Charles (Jane Richards),mrs
+508,1,1,1,,0,0,111427,26.55,,S,Bradley,"George (""George Arthur Brayton"")",mr
+509,0,3,1,28.0,0,0,C 4001,22.525,,S,Olsen,Henry Margido,mr
+510,1,3,1,26.0,0,0,1601,56.4958,,S,Lang,Fang,mr
+511,1,3,1,29.0,0,0,382651,7.75,,Q,Daly,Eugene Patrick,mr
+512,0,3,1,,0,0,SOTON/OQ 3101316,8.05,,S,Webber,James,mr
+513,1,1,1,36.0,0,0,PC 17473,26.2875,E25,S,McGough,James Robert,mr
+514,1,1,0,54.0,1,0,PC 17603,59.4,,C,Rothschild,Martin (Elizabeth L,mrs
+515,0,3,1,24.0,0,0,349209,7.4958,,S,Coleff,Satio,mr
+516,0,1,1,47.0,0,0,36967,34.0208,D46,S,Walker,William Anderson,mr
+517,1,2,0,34.0,0,0,C.A. 34260,10.5,F33,S,Lemore,(Amelia Milley),mrs
+518,0,3,1,,0,0,371110,24.15,,Q,Ryan,Patrick,mr
+519,1,2,0,36.0,1,0,226875,26.0,,S,Angle,"William A (Florence ""Mary"" Agnes Hughes)",mrs
+520,0,3,1,32.0,0,0,349242,7.8958,,S,Pavlovic,Stefo,mr
+521,1,1,0,30.0,0,0,12749,93.5,B73,S,Perreault,Anne,miss
+522,0,3,1,22.0,0,0,349252,7.8958,,S,Vovk,Janko,mr
+523,0,3,1,,0,0,2624,7.225,,C,Lahoud,Sarkis,mr
+524,1,1,0,44.0,0,1,111361,57.9792,B18,C,Hippach,Louis Albert (Ida Sophia Fischer),mrs
+525,0,3,1,,0,0,2700,7.2292,,C,Kassem,Fared,mr
+526,0,3,1,40.5,0,0,367232,7.75,,Q,Farrell,James,mr
+527,1,2,0,50.0,0,0,W./C. 14258,10.5,,S,Ridsdale,Lucy,miss
+528,0,1,1,,0,0,PC 17483,221.7792,C95,S,Farthing,John,mr
+529,0,3,1,39.0,0,0,3101296,7.925,,S,Salonen,Johan Werner,mr
+530,0,2,1,23.0,2,1,29104,11.5,,S,Hocking,Richard George,mr
+531,1,2,0,2.0,1,1,26360,26.0,,S,Quick,Phyllis May,miss
+532,0,3,1,,0,0,2641,7.2292,,C,Toufik,Nakli,mr
+533,0,3,1,17.0,1,1,2690,7.2292,,C,Elias,Joseph Jr,mr
+534,1,3,0,,0,2,2668,22.3583,,C,Peter,Catherine (Catherine Rizk),mrs
+535,0,3,0,30.0,0,0,315084,8.6625,,S,Cacic,Marija,miss
+536,1,2,0,7.0,0,2,F.C.C. 13529,26.25,,S,Hart,Eva Miriam,miss
+537,0,1,1,45.0,0,0,113050,26.55,B38,S,Butt,Archibald Willingham,uncommon
+538,1,1,0,30.0,0,0,PC 17761,106.425,,C,LeRoy,Bertha,miss
+539,0,3,1,,0,0,364498,14.5,,S,Risien,Samuel Beard,mr
+540,1,1,0,22.0,0,2,13568,49.5,B39,C,Frolicher,Hedwig Margaritha,miss
+541,1,1,0,36.0,0,2,WE/P 5735,71.0,B22,S,Crosby,Harriet R,miss
+542,0,3,0,9.0,4,2,347082,31.275,,S,Andersson,Ingeborg Constanzia,miss
+543,0,3,0,11.0,4,2,347082,31.275,,S,Andersson,Sigrid Elisabeth,miss
+544,1,2,1,32.0,1,0,2908,26.0,,S,Beane,Edward,mr
+545,0,1,1,50.0,1,0,PC 17761,106.425,C86,C,Douglas,Walter Donald,mr
+546,0,1,1,64.0,0,0,693,26.0,,S,Nicholson,Arthur Ernest,mr
+547,1,2,0,19.0,1,0,2908,26.0,,S,Beane,Edward (Ethel Clarke),mrs
+548,1,2,1,,0,0,SC/PARIS 2146,13.8625,,C,Padro y Manent,Julian,mr
+549,0,3,1,33.0,1,1,363291,20.525,,S,Goldsmith,Frank John,mr
+550,1,2,1,8.0,1,1,C.A. 33112,36.75,,S,Davies,John Morgan Jr,master
+551,1,1,1,17.0,0,2,17421,110.8833,C70,C,Thayer,John Borland Jr,mr
+552,0,2,1,27.0,0,0,244358,26.0,,S,Sharp,Percival James R,mr
+553,0,3,1,,0,0,330979,7.8292,,Q,O'Brien,Timothy,mr
+554,1,3,1,22.0,0,0,2620,7.225,,C,Leeni,"Fahim (""Philip Zenni"")",mr
+555,1,3,0,22.0,0,0,347085,7.775,,S,Ohman,Velin,miss
+556,0,1,1,62.0,0,0,113807,26.55,,S,Wright,George,mr
+557,1,1,0,48.0,1,0,11755,39.6,A16,C,Duff Gordon,"(Lucille Christiana Sutherland) (""Mrs Morgan"")",uncommon
+558,0,1,1,,0,0,PC 17757,227.525,,C,Robbins,Victor,mr
+559,1,1,0,39.0,1,1,110413,79.65,E67,S,Taussig,Emil (Tillie Mandelbaum),mrs
+560,1,3,0,36.0,1,0,345572,17.4,,S,de Messemaeker,Guillaume Joseph (Emma),mrs
+561,0,3,1,,0,0,372622,7.75,,Q,Morrow,Thomas Rowan,mr
+562,0,3,1,40.0,0,0,349251,7.8958,,S,Sivic,Husein,mr
+563,0,2,1,28.0,0,0,218629,13.5,,S,Norman,Robert Douglas,mr
+564,0,3,1,,0,0,SOTON/OQ 392082,8.05,,S,Simmons,John,mr
+565,0,3,0,,0,0,SOTON/O.Q. 392087,8.05,,S,Meanwell,(Marion Ogden),miss
+566,0,3,1,24.0,2,0,A/4 48871,24.15,,S,Davies,Alfred J,mr
+567,0,3,1,19.0,0,0,349205,7.8958,,S,Stoytcheff,Ilia,mr
+568,0,3,0,29.0,0,4,349909,21.075,,S,Palsson,Nils (Alma Cornelia Berglund),mrs
+569,0,3,1,,0,0,2686,7.2292,,C,Doharr,Tannous,mr
+570,1,3,1,32.0,0,0,350417,7.8542,,S,Jonsson,Carl,mr
+571,1,2,1,62.0,0,0,S.W./PP 752,10.5,,S,Harris,George,mr
+572,1,1,0,53.0,2,0,11769,51.4792,C101,S,Appleton,Edward Dale (Charlotte Lamson),mrs
+573,1,1,1,36.0,0,0,PC 17474,26.3875,E25,S,Flynn,"John Irwin (""Irving"")",mr
+574,1,3,0,,0,0,14312,7.75,,Q,Kelly,Mary,miss
+575,0,3,1,16.0,0,0,A/4. 20589,8.05,,S,Rush,Alfred George John,mr
+576,0,3,1,19.0,0,0,358585,14.5,,S,Patchett,George,mr
+577,1,2,0,34.0,0,0,243880,13.0,,S,Garside,Ethel,miss
+578,1,1,0,39.0,1,0,13507,55.9,E44,S,Silvey,William Baird (Alice Munger),mrs
+579,0,3,0,,1,0,2689,14.4583,,C,Caram,Joseph (Maria Elias),mrs
+580,1,3,1,32.0,0,0,STON/O 2. 3101286,7.925,,S,Jussila,Eiriik,mr
+581,1,2,0,25.0,1,1,237789,30.0,,S,Christy,Julie Rachel,miss
+582,1,1,0,39.0,1,1,17421,110.8833,C68,C,Thayer,John Borland (Marian Longstreth Morris),mrs
+583,0,2,1,54.0,0,0,28403,26.0,,S,Downton,William James,mr
+584,0,1,1,36.0,0,0,13049,40.125,A10,C,Ross,John Hugo,mr
+585,0,3,1,,0,0,3411,8.7125,,C,Paulner,Uscher,mr
+586,1,1,0,18.0,0,2,110413,79.65,E68,S,Taussig,Ruth,miss
+587,0,2,1,47.0,0,0,237565,15.0,,S,Jarvis,John Denzil,mr
+588,1,1,1,60.0,1,1,13567,79.2,B41,C,Frolicher-Stehli,Maxmillian,mr
+589,0,3,1,22.0,0,0,14973,8.05,,S,Gilinski,Eliezer,mr
+590,0,3,1,,0,0,A./5. 3235,8.05,,S,Murdlin,Joseph,mr
+591,0,3,1,35.0,0,0,STON/O 2. 3101273,7.125,,S,Rintamaki,Matti,mr
+592,1,1,0,52.0,1,0,36947,78.2667,D20,C,Stephenson,Walter Bertram (Martha Eustis),mrs
+593,0,3,1,47.0,0,0,A/5 3902,7.25,,S,Elsbury,William James,mr
+594,0,3,0,,0,2,364848,7.75,,Q,Bourke,Mary,miss
+595,0,2,1,37.0,1,0,SC/AH 29037,26.0,,S,Chapman,John Henry,mr
+596,0,3,1,36.0,1,1,345773,24.15,,S,Van Impe,Jean Baptiste,mr
+597,1,2,0,,0,0,248727,33.0,,S,Leitch,Jessie Wills,miss
+598,0,3,1,49.0,0,0,LINE,0.0,,S,Johnson,Alfred,mr
+599,0,3,1,,0,0,2664,7.225,,C,Boulos,Hanna,mr
+600,1,1,1,49.0,1,0,PC 17485,56.9292,A20,C,Duff Gordon,"Cosmo Edmund (""Mr Morgan"")",uncommon
+601,1,2,0,24.0,2,1,243847,27.0,,S,Jacobsohn,Sidney Samuel (Amy Frances Christy),mrs
+602,0,3,1,,0,0,349214,7.8958,,S,Slabenoff,Petco,mr
+603,0,1,1,,0,0,113796,42.4,,S,Harrington,Charles H,mr
+604,0,3,1,44.0,0,0,364511,8.05,,S,Torber,Ernst William,mr
+605,1,1,1,35.0,0,0,111426,26.55,,C,Homer,"Harry (""Mr E Haven"")",mr
+606,0,3,1,36.0,1,0,349910,15.55,,S,Lindell,Edvard Bengtsson,mr
+607,0,3,1,30.0,0,0,349246,7.8958,,S,Karaic,Milan,mr
+608,1,1,1,27.0,0,0,113804,30.5,,S,Daniel,Robert Williams,mr
+609,1,2,0,22.0,1,2,SC/Paris 2123,41.5792,,C,Laroche,Joseph (Juliette Marie Louise Lafargue),mrs
+610,1,1,0,40.0,0,0,PC 17582,153.4625,C125,S,Shutes,Elizabeth W,miss
+611,0,3,0,39.0,1,5,347082,31.275,,S,Andersson,Anders Johan (Alfrida Konstantia Brogren),mrs
+612,0,3,1,,0,0,SOTON/O.Q. 3101305,7.05,,S,Jardin,Jose Neto,mr
+613,1,3,0,,1,0,367230,15.5,,Q,Murphy,Margaret Jane,miss
+614,0,3,1,,0,0,370377,7.75,,Q,Horgan,John,mr
+615,0,3,1,35.0,0,0,364512,8.05,,S,Brocklebank,William Alfred,mr
+616,1,2,0,24.0,1,2,220845,65.0,,S,Herman,Alice,miss
+617,0,3,1,34.0,1,1,347080,14.4,,S,Danbom,Ernst Gilbert,mr
+618,0,3,0,26.0,1,0,A/5. 3336,16.1,,S,Lobb,William Arthur (Cordelia K Stanlick),mrs
+619,1,2,0,4.0,2,1,230136,39.0,F4,S,Becker,Marion Louise,miss
+620,0,2,1,26.0,0,0,31028,10.5,,S,Gavey,Lawrence,mr
+621,0,3,1,27.0,1,0,2659,14.4542,,C,Yasbeck,Antoni,mr
+622,1,1,1,42.0,1,0,11753,52.5542,D19,S,Kimball,Edwin Nelson Jr,mr
+623,1,3,1,20.0,1,1,2653,15.7417,,C,Nakid,Sahid,mr
+624,0,3,1,21.0,0,0,350029,7.8542,,S,Hansen,Henry Damsgaard,mr
+625,0,3,1,21.0,0,0,54636,16.1,,S,Bowen,"David John ""Dai""",mr
+626,0,1,1,61.0,0,0,36963,32.3208,D50,S,Sutton,Frederick,mr
+627,0,2,1,57.0,0,0,219533,12.35,,Q,Kirkland,Charles Leonard,uncommon
+628,1,1,0,21.0,0,0,13502,77.9583,D9,S,Longley,Gretchen Fiske,miss
+629,0,3,1,26.0,0,0,349224,7.8958,,S,Bostandyeff,Guentcho,mr
+630,0,3,1,,0,0,334912,7.7333,,Q,O'Connell,Patrick D,mr
+631,1,1,1,80.0,0,0,27042,30.0,A23,S,Barkworth,Algernon Henry Wilson,mr
+632,0,3,1,51.0,0,0,347743,7.0542,,S,Lundahl,Johan Svensson,mr
+633,1,1,1,32.0,0,0,13214,30.5,B50,C,Stahelin-Maeglin,Max,uncommon
+634,0,1,1,,0,0,112052,0.0,,S,Parr,William Henry Marsh,mr
+635,0,3,0,9.0,3,2,347088,27.9,,S,Skoog,Mabel,miss
+636,1,2,0,28.0,0,0,237668,13.0,,S,Davis,Mary,miss
+637,0,3,1,32.0,0,0,STON/O 2. 3101292,7.925,,S,Leinonen,Antti Gustaf,mr
+638,0,2,1,31.0,1,1,C.A. 31921,26.25,,S,Collyer,Harvey,mr
+639,0,3,0,41.0,0,5,3101295,39.6875,,S,Panula,Juha (Maria Emilia Ojala),mrs
+640,0,3,1,,1,0,376564,16.1,,S,Thorneycroft,Percival,mr
+641,0,3,1,20.0,0,0,350050,7.8542,,S,Jensen,Hans Peder,mr
+642,1,1,0,24.0,0,0,PC 17477,69.3,B35,C,Sagesser,Emma,uncommon
+643,0,3,0,2.0,3,2,347088,27.9,,S,Skoog,Margit Elizabeth,miss
+644,1,3,1,,0,0,1601,56.4958,,S,Foo,Choong,mr
+645,1,3,0,0.75,2,1,2666,19.2583,,C,Baclini,Eugenie,miss
+646,1,1,1,48.0,1,0,PC 17572,76.7292,D33,C,Harper,Henry Sleeper,mr
+647,0,3,1,19.0,0,0,349231,7.8958,,S,Cor,Liudevit,mr
+648,1,1,1,56.0,0,0,13213,35.5,A26,C,Simonius-Blumer,Oberst Alfons,uncommon
+649,0,3,1,,0,0,S.O./P.P. 751,7.55,,S,Willey,Edward,mr
+650,1,3,0,23.0,0,0,CA. 2314,7.55,,S,Stanley,Amy Zillah Elsie,miss
+651,0,3,1,,0,0,349221,7.8958,,S,Mitkoff,Mito,mr
+652,1,2,0,18.0,0,1,231919,23.0,,S,Doling,Elsie,miss
+653,0,3,1,21.0,0,0,8475,8.4333,,S,Kalvik,Johannes Halvorsen,mr
+654,1,3,0,,0,0,330919,7.8292,,Q,O'Leary,"Hanora ""Norah""",miss
+655,0,3,0,18.0,0,0,365226,6.75,,Q,Hegarty,"Hanora ""Nora""",miss
+656,0,2,1,24.0,2,0,S.O.C. 14879,73.5,,S,Hickman,Leonard Mark,mr
+657,0,3,1,,0,0,349223,7.8958,,S,Radeff,Alexander,mr
+658,0,3,0,32.0,1,1,364849,15.5,,Q,Bourke,John (Catherine),mrs
+659,0,2,1,23.0,0,0,29751,13.0,,S,Eitemiller,George Floyd,mr
+660,0,1,1,58.0,0,2,35273,113.275,D48,C,Newell,Arthur Webster,mr
+661,1,1,1,50.0,2,0,PC 17611,133.65,,S,Frauenthal,Henry William,uncommon
+662,0,3,1,40.0,0,0,2623,7.225,,C,Badt,Mohamed,mr
+663,0,1,1,47.0,0,0,5727,25.5875,E58,S,Colley,Edward Pomeroy,mr
+664,0,3,1,36.0,0,0,349210,7.4958,,S,Coleff,Peju,mr
+665,1,3,1,20.0,1,0,STON/O 2. 3101285,7.925,,S,Lindqvist,Eino William,mr
+666,0,2,1,32.0,2,0,S.O.C. 14879,73.5,,S,Hickman,Lewis,mr
+667,0,2,1,25.0,0,0,234686,13.0,,S,Butler,Reginald Fenton,mr
+668,0,3,1,,0,0,312993,7.775,,S,Rommetvedt,Knud Paust,mr
+669,0,3,1,43.0,0,0,A/5 3536,8.05,,S,Cook,Jacob,mr
+670,1,1,0,,1,0,19996,52.0,C126,S,Taylor,Elmer Zebley (Juliet Cummins Wright),mrs
+671,1,2,0,40.0,1,1,29750,39.0,,S,Brown,Thomas William Solomon (Elizabeth Catherine Ford),mrs
+672,0,1,1,31.0,1,0,F.C. 12750,52.0,B71,S,Davidson,Thornton,mr
+673,0,2,1,70.0,0,0,C.A. 24580,10.5,,S,Mitchell,Henry Michael,mr
+674,1,2,1,31.0,0,0,244270,13.0,,S,Wilhelms,Charles,mr
+675,0,2,1,,0,0,239856,0.0,,S,Watson,Ennis Hastings,mr
+676,0,3,1,18.0,0,0,349912,7.775,,S,Edvardsson,Gustaf Hjalmar,mr
+677,0,3,1,24.5,0,0,342826,8.05,,S,Sawyer,Frederick Charles,mr
+678,1,3,0,18.0,0,0,4138,9.8417,,S,Turja,Anna Sofia,miss
+679,0,3,0,43.0,1,6,CA 2144,46.9,,S,Goodwin,Frederick (Augusta Tyler),mrs
+680,1,1,1,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C,Cardeza,Thomas Drake Martinez,mr
+681,0,3,0,,0,0,330935,8.1375,,Q,Peters,Katie,miss
+682,1,1,1,27.0,0,0,PC 17572,76.7292,D49,C,Hassab,Hammad,mr
+683,0,3,1,20.0,0,0,6563,9.225,,S,Olsvigen,Thor Anderson,mr
+684,0,3,1,14.0,5,2,CA 2144,46.9,,S,Goodwin,Charles Edward,mr
+685,0,2,1,60.0,1,1,29750,39.0,,S,Brown,Thomas William Solomon,mr
+686,0,2,1,25.0,1,2,SC/Paris 2123,41.5792,,C,Laroche,Joseph Philippe Lemercier,mr
+687,0,3,1,14.0,4,1,3101295,39.6875,,S,Panula,Jaako Arnold,mr
+688,0,3,1,19.0,0,0,349228,10.1708,,S,Dakic,Branko,mr
+689,0,3,1,18.0,0,0,350036,7.7958,,S,Fischer,Eberhard Thelander,mr
+690,1,1,0,15.0,0,1,24160,211.3375,B5,S,Madill,Georgette Alexandra,miss
+691,1,1,1,31.0,1,0,17474,57.0,B20,S,Dick,Albert Adrian,mr
+692,1,3,0,4.0,0,1,349256,13.4167,,C,Karun,Manca,miss
+693,1,3,1,,0,0,1601,56.4958,,S,Lam,Ali,mr
+694,0,3,1,25.0,0,0,2672,7.225,,C,Saad,Khalil,mr
+695,0,1,1,60.0,0,0,113800,26.55,,S,Weir,John,uncommon
+696,0,2,1,52.0,0,0,248731,13.5,,S,Chapman,Charles Henry,mr
+697,0,3,1,44.0,0,0,363592,8.05,,S,Kelly,James,mr
+698,1,3,0,,0,0,35852,7.7333,,Q,Mullens,"Katherine ""Katie""",miss
+699,0,1,1,49.0,1,1,17421,110.8833,C68,C,Thayer,John Borland,mr
+700,0,3,1,42.0,0,0,348121,7.65,F G63,S,Humblen,Adolf Mathias Nicolai Olsen,mr
+701,1,1,0,18.0,1,0,PC 17757,227.525,C62 C64,C,Astor,John Jacob (Madeleine Talmadge Force),mrs
+702,1,1,1,35.0,0,0,PC 17475,26.2875,E24,S,Silverthorne,Spencer Victor,mr
+703,0,3,0,18.0,0,1,2691,14.4542,,C,Barbara,Saiide,miss
+704,0,3,1,25.0,0,0,36864,7.7417,,Q,Gallagher,Martin,mr
+705,0,3,1,26.0,1,0,350025,7.8542,,S,Hansen,Henrik Juul,mr
+706,0,2,1,39.0,0,0,250655,26.0,,S,Morley,"Henry Samuel (""Mr Henry Marshall"")",mr
+707,1,2,0,45.0,0,0,223596,13.5,,S,Kelly,"Florence ""Fannie""",mrs
+708,1,1,1,42.0,0,0,PC 17476,26.2875,E24,S,Calderhead,Edward Pennington,mr
+709,1,1,0,22.0,0,0,113781,151.55,,S,Cleaver,Alice,miss
+710,1,3,1,,1,1,2661,15.2458,,C,Moubarek,"Halim Gonios (""William George"")",master
+711,1,1,0,24.0,0,0,PC 17482,49.5042,C90,C,Mayne,"Berthe Antonine (""Mrs de Villiers"")",uncommon
+712,0,1,1,,0,0,113028,26.55,C124,S,Klaber,Herman,mr
+713,1,1,1,48.0,1,0,19996,52.0,C126,S,Taylor,Elmer Zebley,mr
+714,0,3,1,29.0,0,0,7545,9.4833,,S,Larsson,August Viktor,mr
+715,0,2,1,52.0,0,0,250647,13.0,,S,Greenberg,Samuel,mr
+716,0,3,1,19.0,0,0,348124,7.65,F G73,S,Soholt,Peter Andreas Lauritz Andersen,mr
+717,1,1,0,38.0,0,0,PC 17757,227.525,C45,C,Endres,Caroline Louise,miss
+718,1,2,0,27.0,0,0,34218,10.5,E101,S,Troutt,"Edwina Celia ""Winnie""",miss
+719,0,3,1,,0,0,36568,15.5,,Q,McEvoy,Michael,mr
+720,0,3,1,33.0,0,0,347062,7.775,,S,Johnson,Malkolm Joackim,mr
+721,1,2,0,6.0,0,1,248727,33.0,,S,Harper,"Annie Jessie ""Nina""",miss
+722,0,3,1,17.0,1,0,350048,7.0542,,S,Jensen,Svend Lauritz,mr
+723,0,2,1,34.0,0,0,12233,13.0,,S,Gillespie,William Henry,mr
+724,0,2,1,50.0,0,0,250643,13.0,,S,Hodges,Henry Price,mr
+725,1,1,1,27.0,1,0,113806,53.1,E8,S,Chambers,Norman Campbell,mr
+726,0,3,1,20.0,0,0,315094,8.6625,,S,Oreskovic,Luka,mr
+727,1,2,0,30.0,3,0,31027,21.0,,S,Renouf,Peter Henry (Lillian Jefferys),mrs
+728,1,3,0,,0,0,36866,7.7375,,Q,Mannion,Margareth,miss
+729,0,2,1,25.0,1,0,236853,26.0,,S,Bryhl,Kurt Arnold Gottfrid,mr
+730,0,3,0,25.0,1,0,STON/O2. 3101271,7.925,,S,Ilmakangas,Pieta Sofia,miss
+731,1,1,0,29.0,0,0,24160,211.3375,B5,S,Allen,Elisabeth Walton,miss
+732,0,3,1,11.0,0,0,2699,18.7875,,C,Hassan,Houssein G N,mr
+733,0,2,1,,0,0,239855,0.0,,S,Knight,Robert J,mr
+734,0,2,1,23.0,0,0,28425,13.0,,S,Berriman,William John,mr
+735,0,2,1,23.0,0,0,233639,13.0,,S,Troupiansky,Moses Aaron,mr
+736,0,3,1,28.5,0,0,54636,16.1,,S,Williams,Leslie,mr
+737,0,3,0,48.0,1,3,W./C. 6608,34.375,,S,Ford,Edward (Margaret Ann Watson),mrs
+738,1,1,1,35.0,0,0,PC 17755,512.3292,B101,C,Lesurer,Gustave J,mr
+739,0,3,1,,0,0,349201,7.8958,,S,Ivanoff,Kanio,mr
+740,0,3,1,,0,0,349218,7.8958,,S,Nankoff,Minko,mr
+741,1,1,1,,0,0,16988,30.0,D45,S,Hawksford,Walter James,mr
+742,0,1,1,36.0,1,0,19877,78.85,C46,S,Cavendish,Tyrell William,mr
+743,1,1,0,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,Ryerson,"Susan Parker ""Suzette""",miss
+744,0,3,1,24.0,1,0,376566,16.1,,S,McNamee,Neal,mr
+745,1,3,1,31.0,0,0,STON/O 2. 3101288,7.925,,S,Stranden,Juho,mr
+746,0,1,1,70.0,1,1,WE/P 5735,71.0,B22,S,Crosby,Edward Gifford,uncommon
+747,0,3,1,16.0,1,1,C.A. 2673,20.25,,S,Abbott,Rossmore Edward,mr
+748,1,2,0,30.0,0,0,250648,13.0,,S,Sinkkonen,Anna,miss
+749,0,1,1,19.0,1,0,113773,53.1,D30,S,Marvin,Daniel Warner,mr
+750,0,3,1,31.0,0,0,335097,7.75,,Q,Connaghton,Michael,mr
+751,1,2,0,4.0,1,1,29103,23.0,,S,Wells,Joan,miss
+752,1,3,1,6.0,0,1,392096,12.475,E121,S,Moor,Meier,master
+753,0,3,1,33.0,0,0,345780,9.5,,S,Vande Velde,Johannes Joseph,mr
+754,0,3,1,23.0,0,0,349204,7.8958,,S,Jonkoff,Lalio,mr
+755,1,2,0,48.0,1,2,220845,65.0,,S,Herman,Samuel (Jane Laver),mrs
+756,1,2,1,0.67,1,1,250649,14.5,,S,Hamalainen,Viljo,master
+757,0,3,1,28.0,0,0,350042,7.7958,,S,Carlsson,August Sigfrid,mr
+758,0,2,1,18.0,0,0,29108,11.5,,S,Bailey,Percy Andrew,mr
+759,0,3,1,34.0,0,0,363294,8.05,,S,Theobald,Thomas Leonard,mr
+760,1,1,0,33.0,0,0,110152,86.5,B77,S,Rothes,of (Lucy Noel Martha Dyer-Edwards),uncommon
+761,0,3,1,,0,0,358585,14.5,,S,Garfirth,John,mr
+762,0,3,1,41.0,0,0,SOTON/O2 3101272,7.125,,S,Nirva,Iisakki Antino Aijo,mr
+763,1,3,1,20.0,0,0,2663,7.2292,,C,Barah,Hanna Assi,mr
+764,1,1,0,36.0,1,2,113760,120.0,B96 B98,S,Carter,William Ernest (Lucile Polk),mrs
+765,0,3,1,16.0,0,0,347074,7.775,,S,Eklund,Hans Linus,mr
+766,1,1,0,51.0,1,0,13502,77.9583,D11,S,Hogeboom,John C (Anna Andrews),mrs
+767,0,1,1,,0,0,112379,39.6,,C,Brewe,Arthur Jackson,uncommon
+768,0,3,0,30.5,0,0,364850,7.75,,Q,Mangan,Mary,miss
+769,0,3,1,,1,0,371110,24.15,,Q,Moran,Daniel J,mr
+770,0,3,1,32.0,0,0,8471,8.3625,,S,Gronnestad,Daniel Danielsen,mr
+771,0,3,1,24.0,0,0,345781,9.5,,S,Lievens,Rene Aime,mr
+772,0,3,1,48.0,0,0,350047,7.8542,,S,Jensen,Niels Peder,mr
+773,0,2,0,57.0,0,0,S.O./P.P. 3,10.5,E77,S,Mack,(Mary),mrs
+774,0,3,1,,0,0,2674,7.225,,C,Elias,Dibo,mr
+775,1,2,0,54.0,1,3,29105,23.0,,S,Hocking,Elizabeth (Eliza Needs),mrs
+776,0,3,1,18.0,0,0,347078,7.75,,S,Myhrman,Pehr Fabian Oliver Malkolm,mr
+777,0,3,1,,0,0,383121,7.75,F38,Q,Tobin,Roger,mr
+778,1,3,0,5.0,0,0,364516,12.475,,S,Emanuel,Virginia Ethel,miss
+779,0,3,1,,0,0,36865,7.7375,,Q,Kilgannon,Thomas J,mr
+780,1,1,0,43.0,0,1,24160,211.3375,B3,S,Robert,Edward Scott (Elisabeth Walton McMillan),mrs
+781,1,3,0,13.0,0,0,2687,7.2292,,C,Ayoub,Banoura,miss
+782,1,1,0,17.0,1,0,17474,57.0,B20,S,Dick,Albert Adrian (Vera Gillespie),mrs
+783,0,1,1,29.0,0,0,113501,30.0,D6,S,Long,Milton Clyde,mr
+784,0,3,1,,1,2,W./C. 6607,23.45,,S,Johnston,Andrew G,mr
+785,0,3,1,25.0,0,0,SOTON/O.Q. 3101312,7.05,,S,Ali,William,mr
+786,0,3,1,25.0,0,0,374887,7.25,,S,Harmer,Abraham (David Lishin),mr
+787,1,3,0,18.0,0,0,3101265,7.4958,,S,Sjoblom,Anna Sofia,miss
+788,0,3,1,8.0,4,1,382652,29.125,,Q,Rice,George Hugh,master
+789,1,3,1,1.0,1,2,C.A. 2315,20.575,,S,Dean,Bertram Vere,master
+790,0,1,1,46.0,0,0,PC 17593,79.2,B82 B84,C,Guggenheim,Benjamin,mr
+791,0,3,1,,0,0,12460,7.75,,Q,Keane,"Andrew ""Andy""",mr
+792,0,2,1,16.0,0,0,239865,26.0,,S,Gaskell,Alfred,mr
+793,0,3,0,,8,2,CA. 2343,69.55,,S,Sage,Stella Anna,miss
+794,0,1,1,,0,0,PC 17600,30.6958,,C,Hoyt,William Fisher,mr
+795,0,3,1,25.0,0,0,349203,7.8958,,S,Dantcheff,Ristiu,mr
+796,0,2,1,39.0,0,0,28213,13.0,,S,Otter,Richard,mr
+797,1,1,0,49.0,0,0,17465,25.9292,D17,S,Leader,Alice (Farnham),uncommon
+798,1,3,0,31.0,0,0,349244,8.6833,,S,Osman,Mara,mrs
+799,0,3,1,30.0,0,0,2685,7.2292,,C,Ibrahim Shawah,Yousseff,mr
+800,0,3,0,30.0,1,1,345773,24.15,,S,Van Impe,Jean Baptiste (Rosalie Paula Govaert),mrs
+801,0,2,1,34.0,0,0,250647,13.0,,S,Ponesell,Martin,mr
+802,1,2,0,31.0,1,1,C.A. 31921,26.25,,S,Collyer,Harvey (Charlotte Annie Tate),mrs
+803,1,1,1,11.0,1,2,113760,120.0,B96 B98,S,Carter,William Thornton II,master
+804,1,3,1,0.42,0,1,2625,8.5167,,C,Thomas,Assad Alexander,master
+805,1,3,1,27.0,0,0,347089,6.975,,S,Hedman,Oskar Arvid,mr
+806,0,3,1,31.0,0,0,347063,7.775,,S,Johansson,Karl Johan,mr
+807,0,1,1,39.0,0,0,112050,0.0,A36,S,Andrews,Thomas Jr,mr
+808,0,3,0,18.0,0,0,347087,7.775,,S,Pettersson,Ellen Natalia,miss
+809,0,2,1,39.0,0,0,248723,13.0,,S,Meyer,August,mr
+810,1,1,0,33.0,1,0,113806,53.1,E8,S,Chambers,Norman Campbell (Bertha Griggs),mrs
+811,0,3,1,26.0,0,0,3474,7.8875,,S,Alexander,William,mr
+812,0,3,1,39.0,0,0,A/4 48871,24.15,,S,Lester,James,mr
+813,0,2,1,35.0,0,0,28206,10.5,,S,Slemen,Richard James,mr
+814,0,3,0,6.0,4,2,347082,31.275,,S,Andersson,Ebba Iris Alfrida,miss
+815,0,3,1,30.5,0,0,364499,8.05,,S,Tomlin,Ernest Portage,mr
+816,0,1,1,,0,0,112058,0.0,B102,S,Fry,Richard,mr
+817,0,3,0,23.0,0,0,STON/O2. 3101290,7.925,,S,Heininen,Wendla Maria,miss
+818,0,2,1,31.0,1,1,S.C./PARIS 2079,37.0042,,C,Mallet,Albert,mr
+819,0,3,1,43.0,0,0,C 7075,6.45,,S,Holm,John Fredrik Alexander,mr
+820,0,3,1,10.0,3,2,347088,27.9,,S,Skoog,Karl Thorsten,master
+821,1,1,0,52.0,1,1,12749,93.5,B69,S,Hays,Charles Melville (Clara Jennings Gregg),mrs
+822,1,3,1,27.0,0,0,315098,8.6625,,S,Lulic,Nikola,mr
+823,0,1,1,38.0,0,0,19972,0.0,,S,Reuchlin,John George,uncommon
+824,1,3,0,27.0,0,1,392096,12.475,E121,S,Moor,(Beila),mrs
+825,0,3,1,2.0,4,1,3101295,39.6875,,S,Panula,Urho Abraham,master
+826,0,3,1,,0,0,368323,6.95,,Q,Flynn,John,mr
+827,0,3,1,,0,0,1601,56.4958,,S,Lam,Len,mr
+828,1,2,1,1.0,0,2,S.C./PARIS 2079,37.0042,,C,Mallet,Andre,master
+829,1,3,1,,0,0,367228,7.75,,Q,McCormack,Thomas Joseph,mr
+830,1,1,0,62.0,0,0,113572,80.0,B28,,Stone,George Nelson (Martha Evelyn),mrs
+831,1,3,0,15.0,1,0,2659,14.4542,,C,Yasbeck,Antoni (Selini Alexander),mrs
+832,1,2,1,0.83,1,1,29106,18.75,,S,Richards,George Sibley,master
+833,0,3,1,,0,0,2671,7.2292,,C,Saad,Amin,mr
+834,0,3,1,23.0,0,0,347468,7.8542,,S,Augustsson,Albert,mr
+835,0,3,1,18.0,0,0,2223,8.3,,S,Allum,Owen George,mr
+836,1,1,0,39.0,1,1,PC 17756,83.1583,E49,C,Compton,Sara Rebecca,miss
+837,0,3,1,21.0,0,0,315097,8.6625,,S,Pasic,Jakob,mr
+838,0,3,1,,0,0,392092,8.05,,S,Sirota,Maurice,mr
+839,1,3,1,32.0,0,0,1601,56.4958,,S,Chip,Chang,mr
+840,1,1,1,,0,0,11774,29.7,C47,C,Marechal,Pierre,mr
+841,0,3,1,20.0,0,0,SOTON/O2 3101287,7.925,,S,Alhomaki,Ilmari Rudolf,mr
+842,0,2,1,16.0,0,0,S.O./P.P. 3,10.5,,S,Mudd,Thomas Charles,mr
+843,1,1,0,30.0,0,0,113798,31.0,,C,Serepeca,Augusta,miss
+844,0,3,1,34.5,0,0,2683,6.4375,,C,Lemberopolous,Peter L,mr
+845,0,3,1,17.0,0,0,315090,8.6625,,S,Culumovic,Jeso,mr
+846,0,3,1,42.0,0,0,C.A. 5547,7.55,,S,Abbing,Anthony,mr
+847,0,3,1,,8,2,CA. 2343,69.55,,S,Sage,Douglas Bullen,mr
+848,0,3,1,35.0,0,0,349213,7.8958,,C,Markoff,Marin,mr
+849,0,2,1,28.0,0,1,248727,33.0,,S,Harper,John,uncommon
+850,1,1,0,,1,0,17453,89.1042,C92,C,Goldenberg,Samuel L (Edwiga Grabowska),mrs
+851,0,3,1,4.0,4,2,347082,31.275,,S,Andersson,Sigvard Harald Elias,master
+852,0,3,1,74.0,0,0,347060,7.775,,S,Svensson,Johan,mr
+853,0,3,0,9.0,1,1,2678,15.2458,,C,Boulos,Nourelain,miss
+854,1,1,0,16.0,0,1,PC 17592,39.4,D28,S,Lines,Mary Conover,miss
+855,0,2,0,44.0,1,0,244252,26.0,,S,Carter,Ernest Courtenay (Lilian Hughes),mrs
+856,1,3,0,18.0,0,1,392091,9.35,,S,Aks,Sam (Leah Rosen),mrs
+857,1,1,0,45.0,1,1,36928,164.8667,,S,Wick,George Dennick (Mary Hitchcock),mrs
+858,1,1,1,51.0,0,0,113055,26.55,E17,S,Daly,Peter Denis,mr
+859,1,3,0,24.0,0,3,2666,19.2583,,C,Baclini,Solomon (Latifa Qurban),mrs
+860,0,3,1,,0,0,2629,7.2292,,C,Razi,Raihed,mr
+861,0,3,1,41.0,2,0,350026,14.1083,,S,Hansen,Claus Peter,mr
+862,0,2,1,21.0,1,0,28134,11.5,,S,Giles,Frederick Edward,mr
+863,1,1,0,48.0,0,0,17466,25.9292,D17,S,Swift,Frederick Joel (Margaret Welles Barron),mrs
+864,0,3,0,,8,2,CA. 2343,69.55,,S,Sage,"Dorothy Edith ""Dolly""",miss
+865,0,2,1,24.0,0,0,233866,13.0,,S,Gill,John William,mr
+866,1,2,0,42.0,0,0,236852,13.0,,S,Bystrom,(Karolina),mrs
+867,1,2,0,27.0,1,0,SC/PARIS 2149,13.8583,,C,Duran y More,Asuncion,miss
+868,0,1,1,31.0,0,0,PC 17590,50.4958,A24,S,Roebling,Washington Augustus II,mr
+869,0,3,1,,0,0,345777,9.5,,S,van Melkebeke,Philemon,mr
+870,1,3,1,4.0,1,1,347742,11.1333,,S,Johnson,Harold Theodor,master
+871,0,3,1,26.0,0,0,349248,7.8958,,S,Balkic,Cerin,mr
+872,1,1,0,47.0,1,1,11751,52.5542,D35,S,Beckwith,Richard Leonard (Sallie Monypeny),mrs
+873,0,1,1,33.0,0,0,695,5.0,B51 B53 B55,S,Carlsson,Frans Olof,mr
+874,0,3,1,47.0,0,0,345765,9.0,,S,Vander Cruyssen,Victor,mr
+875,1,2,0,28.0,1,0,P/PP 3381,24.0,,C,Abelson,Samuel (Hannah Wizosky),mrs
+876,1,3,0,15.0,0,0,2667,7.225,,C,Najib,"Adele Kiamie ""Jane""",miss
+877,0,3,1,20.0,0,0,7534,9.8458,,S,Gustafsson,Alfred Ossian,mr
+878,0,3,1,19.0,0,0,349212,7.8958,,S,Petroff,Nedelio,mr
+879,0,3,1,,0,0,349217,7.8958,,S,Laleff,Kristo,mr
+880,1,1,0,56.0,0,1,11767,83.1583,C50,C,Potter,Thomas Jr (Lily Alexenia Wilson),mrs
+881,1,2,0,25.0,0,1,230433,26.0,,S,Shelley,William (Imanita Parrish Hall),mrs
+882,0,3,1,33.0,0,0,349257,7.8958,,S,Markun,Johann,mr
+883,0,3,0,22.0,0,0,7552,10.5167,,S,Dahlberg,Gerda Ulrika,miss
+884,0,2,1,28.0,0,0,C.A./SOTON 34068,10.5,,S,Banfield,Frederick James,mr
+885,0,3,1,25.0,0,0,SOTON/OQ 392076,7.05,,S,Sutehall,Henry Jr,mr
+886,0,3,0,39.0,0,5,382652,29.125,,Q,Rice,William (Margaret Norton),mrs
+887,0,2,1,27.0,0,0,211536,13.0,,S,Montvila,Juozas,uncommon
+888,1,1,0,19.0,0,0,112053,30.0,B42,S,Graham,Margaret Edith,miss
+889,0,3,0,,1,2,W./C. 6607,23.45,,S,Johnston,"Catherine Helen ""Carrie""",miss
+890,1,1,1,26.0,0,0,111369,30.0,C148,C,Behr,Karl Howell,mr
+891,0,3,1,32.0,0,0,370376,7.75,,Q,Dooley,Patrick,mr
